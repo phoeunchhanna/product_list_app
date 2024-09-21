@@ -1,10 +1,10 @@
 # dashboard
 
 A new Flutter project.
-
+Demo Assignment App
 ## Getting Started
 
-This project is a starting point for a Flutter application.[login](https://github.com/user-attachments/assets/a899088d-3f68-4321-a1be-c51cbfa7e0f5)
+This project is a starting point for a Flutter application.
 
 
 A few resources to get you started if this is your first Flutter project:
